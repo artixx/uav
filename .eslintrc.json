@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "quotes": ["error", "single"],
+    "semi": ["error", "never"],
+    "indent": ["error", 4],
+    "comma-dangle": ["error", "always-multiline"],
+    "capitalized-comments": ["warn" ],
+    "object-curly-spacing": ["error", "always"],
+    "operator-linebreak": ["error", "before"]
+  },
+  "extends": "eslint-config-xo"
+}
